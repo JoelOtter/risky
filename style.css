@@ -10,4 +10,12 @@
     top: 95%;
     left: 0px;
     background-color: #ffffff;
+    text-align: center;
+}
+
+#bar input {
+    position: relative;
+    width: 25%;
+    top: 50%;
+    transform: translateY(-50%);
 }
