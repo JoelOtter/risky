@@ -2,6 +2,12 @@
 
 Want to see what's behind that link, but scared it's something horrible? Risky's here to help.
 
+## Features
+* Accessible from right-clicking any link
+* Auto blur option
+* Works on full pages, not just image links.
+* Blurred pages are still usable!
+
 ## How to use
 * Right click on the suspicious link.
 ![](screenshots/right_click.png)
@@ -14,6 +20,8 @@ Want to see what's behind that link, but scared it's something horrible? Risky's
 * Alternatively, check the 'auto' box to have Risky gradually un-blur the image automatically (10% per second).
 
 ---
+
+Please note that Risky probably won't work on links that are accessible only with login, e.g. Facebook posts.
 
 Risky was made as a very quick hack while I was supposed to be supervising at [ICHack](http://www.ichack.org) 2015.
 
