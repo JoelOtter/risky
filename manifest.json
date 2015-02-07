@@ -2,12 +2,18 @@
     "manifest_version": 2,
 
     "name": "Risky",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "A simple Chrome extension to help with those 'risky clicks'.",
 
     "author": "Joel Auterson",
     "permissions": ["contextMenus", "tabs"],
     "background": {
         "scripts": ["ext.js"]
+    },
+
+    "icons": {
+        "16": "see_no_evil_16.png",
+        "32": "see_no_evil_32.png",
+        "64": "see_no_evil_64.png"
     }
 }
