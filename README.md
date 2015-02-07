@@ -2,8 +2,6 @@
 
 Want to see what's behind that link, but scared it's something horrible? Risky's here to help.
 
----
-
 ## How to use
 * Right click on the suspicious link.
 ![](screenshots/right_click.png)
