@@ -9,13 +9,21 @@
     height: 5%;
     top: 95%;
     left: 0px;
-    background-color: #ffffff;
-    text-align: center;
+    background-color: #eeeeee;
 }
 
-#bar input {
-    position: relative;
+#blurRange {
+    position: absolute;
     width: 25%;
     top: 50%;
+    left: 37.5%;
     transform: translateY(-50%);
+}
+
+#auto {
+    position: relative;
+    float: left;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-left: 10px;
 }
