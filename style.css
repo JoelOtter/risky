@@ -1,0 +1,13 @@
+#view {
+    width: 100%;
+    height: 100%;
+}
+
+#bar {
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    top: 95%;
+    left: 0px;
+    background-color: #ffffff;
+}
